@@ -1,0 +1,1 @@
+{"dates": ["2022-04-01", "2022-06-30"], "long_ma_type": "ema", "short_ma_type": "sma", "long_window": 60, "long_to_short_ratio": 4, "rsi_bounds": [20, 80], "z_score_centre": 0.75}

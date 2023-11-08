@@ -1,0 +1,1 @@
+{"dates": ["2022-07-01", "2022-07-29"], "long_ma_type": "ema", "short_ma_type": "ema", "long_window": 72, "long_to_short_ratio": 3, "rsi_bounds": [20, 80], "z_score_centre": 1}

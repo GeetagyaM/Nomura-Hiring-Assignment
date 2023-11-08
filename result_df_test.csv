@@ -1,0 +1,2 @@
+,dates,long_ma_type,short_ma_type,long_window,long_to_short_ratio,rsi_bounds,z_score_centre,total_return_percent,volatility,max_drawdown,return_per_unit_risk
+0,"['2022-04-01', '2022-06-30']",sma,sma,60,2,"[20, 80]",1,5.75567942126054,11.95602282659478,-20.300157381503592,0.48140418471414276
